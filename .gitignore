@@ -24,3 +24,5 @@ CONNECTION_STRING
 migration/toolbox/hotDocSpreadCheck/hot-doc-spread-check.json
 migration/mongosync_insights/blueprints/__init__.py
 .cursor/rules/mongosync-insights-pre-pr.mdc
+
+nohup.out
